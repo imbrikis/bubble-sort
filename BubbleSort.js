@@ -25,5 +25,5 @@ function bubbleSort(arr) {
   }
 }
 
-console.log(bubbleSort(arr))
+bubbleSort(arr)
 console.log(arr)
